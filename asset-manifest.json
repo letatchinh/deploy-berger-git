@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deploy-berger-git/static/css/main.434689f2.css",
+    "main.js": "/deploy-berger-git/static/js/main.51d7138c.js",
+    "static/js/787.e59faaf5.chunk.js": "/deploy-berger-git/static/js/787.e59faaf5.chunk.js",
+    "index.html": "/deploy-berger-git/index.html",
+    "main.434689f2.css.map": "/deploy-berger-git/static/css/main.434689f2.css.map",
+    "main.51d7138c.js.map": "/deploy-berger-git/static/js/main.51d7138c.js.map",
+    "787.e59faaf5.chunk.js.map": "/deploy-berger-git/static/js/787.e59faaf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434689f2.css",
+    "static/js/main.51d7138c.js"
+  ]
+}
